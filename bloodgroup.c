@@ -3,6 +3,7 @@
 void main()
 { char Name[40], G[5], answer[10];
   int i;
+  printf("Test Change\n");
   do
   {
     printf("What is your Name? ");
