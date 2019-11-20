@@ -6,7 +6,7 @@ void main()
   printf("Test Change\n");
   do
   {
-    printf("What is your Name? Mos");
+    printf("What is your Name? Praw");
     scanf("%s", Name);
     do
     {
